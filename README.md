@@ -86,6 +86,11 @@ AndRatingBar has it's own configuration as follows:
 * `app:scaleFactor="1.2"` the sacle factor of the ratingbar which can change the spacing of the star
 * app:right2Left="true"  right to left support
 
+
+
+## Stargazers over time 
+[![Stargazers over time](https://starchart.cc/giswangsj/AndRatingBar.svg)](https://starchart.cc/giswangsj/AndRatingBar)
+
 ## License
 
 `AndRatingBar` is released under the Apache License version 2.0.
