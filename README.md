@@ -1,3 +1,9 @@
+
+# Please Note: I've reuploaded this project to GitHub because the original repository has gone 404.
+# Original Link: [https://github.com/giswangsj/AndRatingBar](https://github.com/giswangsj/AndRatingBar)
+# If you are the original author and you want this project removed from GitHub please send me a private message.
+
+
 # AndRatingBar
 
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) [![](https://jitpack.io/v/giswangsj/AndRatingBar.svg)](https://jitpack.io/#giswangsj/AndRatingBar)
