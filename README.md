@@ -1,7 +1,7 @@
 
 # Please Note: I've reuploaded this project to GitHub because the original repository has gone 404.
 # Original Link: [https://github.com/giswangsj/AndRatingBar](https://github.com/giswangsj/AndRatingBar)
-# If you are the original author and you want this project removed from GitHub please send me a private message.
+# If you are the original author and you want this project removed from GitHub please send me an email at the following: accounts.nonrationalistic@slmail.me
 
 
 # AndRatingBar
